@@ -7,10 +7,7 @@ lot of CPU processing (the parsing is done in the server side) which good for ba
 
 
 Demo: 
-![alt text](./images/img2.png)
-
-Demo: 
-![alt text](./images/img1.png)
+![alt text](./images/img2.png) 
 
 
 
